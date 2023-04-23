@@ -1,0 +1,98 @@
+# IngSW3_DulceCaramelo
+DOR y DOD con SCRUM
+
+Historia de usuario 8 –  Elección medio de pago:
+Descripción:
+Yo como cliente de la distribuidora DULCE CARAMELO, quiero navegar y visualizar los diferentes medios de pago, para poder elegir el que más me convenga y así continuar con el proceso de pagar.
+
+Criterios de aceptación:
+•	Visualizar un objeto que despliegue el listado con los medios de pago.
+•	Navegar por los diferentes medios de pago
+•	Elegir un medio de pago y quedará seleccionado
+
+Comprobación criterios de aceptación: 
+Dado que deseo visualizar y elegir los medios de pago de mayor conveniencia.
+Cuando desde mi dispositivo informático haga la elección pertinente.
+Entonces pueda verificar que se aceptó el medio de pago elegido.
+
+Historia de usuario 9 - Pagar por el pedido:
+Descripción:
+Yo como cliente de la distribuidora DULCE CARAMELO, quiero pagar los artículos de la bolsa de pedido para que se me informe la aceptación del pago y en qué fecha me llegarán los bienes adquiridos.
+
+Criterios de aceptación:
+•	Conectarse a la API de la plataforma de pago
+•	Enviar los datos requeridos por la plataforma de pago
+•	Verificar la respuesta de la API de (PayRetailers) y ejecutar funcionalidad para el cliente
+•	Mostrar mensaje de pago realizado, de fallo en conexión, de fallo conexión con el banco ó de volver a realizar el pago
+
+Comprobación criterios de aceptación:
+Dado que apruebo el pago con mis datos financieros del pedido aceptado.
+Cuando desde mi dispositivo informático ordeno al sistema debitar de mi cuenta bancaria.
+Entonces pueda tener respuesta de que la transacción financiera fue aceptada o sobre los problemas de conexión o fallos en la red, que impidieran la transacción
+
+Historia de usuario 7 - Creación de cuenta cliente:
+Descripción:
+Yo como usuario de la distribuidora DULCE CARAMELO, quiero crear una cuenta diligenciando el formulario y quiero poder modificarlos datos o que el sistema me informe los errores de inserción de información para convertirme en cliente y comprar los artículos de dulcería que están en la bolsa de pedido para que la empresa autorice las existencias a comprar.
+
+Criterios de aceptación:
+•	Visualizar la GUI de cuenta cliente
+•	Visualizar el formulario con los botones CRUD (Borrado, crear, aceptar pedido)
+•	Validar datos den campos de formulario
+
+Comprobación criterios de aceptación:
+Dado que deseo crear una cuenta para ser cliente y aceptar la compra de los artículos en la bolsa de pedido.
+Cuando el sistema me notifique de la correcta creación de la cuenta
+Entonces me permita aceptar el pedido, ordenándole al sistema envíe información mediante un mensaje a la empresa para autorización de compra.
+
+Historia de usuario 10 - Visualización interfaz para cuenta cliente:
+Descripción:
+Yo como usuario de la página de productos en dulcería he elegido artículos y sus cantidades y he aceptado comprarlos, entonces   quiero crear una cuenta, para poder convertirme en cliente y hacer el pedido. para luego poder ingresar como cliente a la cuenta y consultar las respuestas de la empresa con el fin de pagar el pedido. Para visualizar e interactuar con las demás secciones de la cuenta
+
+Criterios de aceptación:
+•	Visualizar la interfaz de creación cuenta cliente con las secciones correspondientes con sección de formulario
+•	Presentar la sección de formulario con los botones CRUD
+•	Visualizar la interfaz de cuenta cliente sin el formulario y las secciones correspondientes más sección de pago
+•	Visualizar Bolsa de pedido con cantidad, secciones de imbox y sus botones, de pago, botones CRUD
+
+Comprobación criterios de aceptación:
+Dado que he elegido artículos y digitado sus cantidades 
+Cuando ordene al sistema hacer el pedido 
+Entonces pueda crear una cuenta y convertirme en cliente
+Entonces pueda acceder a las secciones de la cuenta y autorizar enviar el pedido mediante mensaje a la empresa para que lo autorice y poder pagarlo
+
+Historia de usuario 10 - Visualizar la aprobación por parte de la empresa:
+
+	Descripción:
+Yo como cliente de la distribuidora  DULCE CARAMELO, quiero abrir el mensaje de aprobación de mi pedido por parte de la empresa, para que se active la sección de pagos y poder cancelar monetariamente.
+
+Criterios de aceptación:
+Ingresar a la cuenta cliente
+Ingresar a la sección de mensajes o al imbox
+Abrir mensaje sobre aprobación del pedido  
+
+Comprobación criterios e aceptación: 
+Dado que deseo abrir el mensaje sobre la aprobación del pedido y leerlo
+Cuando ingrese al imbox de mi cuenta
+Entonces pueda enterarme de la aprobación y se active la sección de pagos con el fin de poder cancelar financieramente
+
+Historia de usuario 11 - Enviar mensaje a empresa:
+Descripción:
+Yo como cliente de DULCE CARAMELO, quiero ingresar al imbox de mi cuenta cliente, para crear y enviar un mensaje nuevo a la empresa y para responder mensajes de la empresa sobre la aprobación del pedido.
+
+Criterios de aceptación:
+•	Visualizar el imbox con el formato de envío de mensajes respuesta
+•	Mostrar formato para envío de mensaje nuevo
+•	Enviar y almacenar mensajes enviados
+
+Comprobación criterios de aceptación:
+Dado que deseo responder un mensaje de la empresa o enviar uno nuevo
+Cuando haya leído el mensaje de aprobación del pedido o necesite enviar una comunicación nueva a la empresa
+Entonces pueda enviar el mensaje, quede guardado en sendmail y el sistema me informe del éxito en el envío
+
+
+
+
+
+
+
+
