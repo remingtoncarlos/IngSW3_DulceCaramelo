@@ -29,7 +29,7 @@ Comprobación criterios de aceptación:
 Dado que apruebo el pago con mis datos financieros del pedido aceptado.
 Cuando desde mi dispositivo informático ordeno al sistema debitar de mi cuenta bancaria.
 Entonces pueda tener respuesta de que la transacción financiera fue aceptada o sobre los problemas de conexión o fallos en la red, que impidieran la transacción
-
+.
 Historia de usuario 7 - Creación de cuenta cliente:
 Descripción:
 Yo como usuario de la distribuidora DULCE CARAMELO, quiero crear una cuenta diligenciando el formulario y quiero poder modificarlos datos o que el sistema me informe los errores de inserción de información para convertirme en cliente y comprar los artículos de dulcería que están en la bolsa de pedido para que la empresa autorice las existencias a comprar.
