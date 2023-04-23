@@ -1,40 +1,42 @@
 •	Épica 1: Visualización de los productos ofertados para el mercado objetivo:
-El usuario puede observar y navegar por los productos ofrecidos en la empresa, seleccionando el de preferencia para acceder a las categorías o subproductos.  
-Historia de usuario 1 – visualizar por la oferta de productos: 
-como un usuario cualquiera que accede a la interfaz web, puede visualizar información de todos los productos ofrecidos de manera rápida y amigable.
-Historia de usuario 2 – navegar y visualizar las subcategorías:
-Como usuario pueda navegar por la información de las categorías y por las categorías del producto elegido, observando las imágenes, características y sección para especificar las cantidades.
+  El usuario puede observar y navegar por los productos ofrecidos en la empresa, seleccionando el de preferencia para acceder a las categorías o subproductos.  
+  - Historia de usuario 1 – visualizar por la oferta de productos: 
+    como un usuario cualquiera que accede a la interfaz web, puede visualizar información de todos los productos ofrecidos de manera rápida y amigable.
+    Historia de usuario 2 – navegar y visualizar las subcategorías:
+    Como usuario pueda navegar por la información de las categorías y por las categorías del producto elegido, observando las imágenes, características y sección para especificar las cantidades.
+
 •	Épica 2: Elección de los productos, cantidades y agregación a la bolsa de pedido: 
-Como el usuario puede elegir un producto determinado, indicar la cantidad e ingresar los artículos a la bolsa de pedido.
-Historia de usuario 3 -  elegir categorías y cantidades: 
-como el usuario puede elegir una variedad de categorías y sus cantidades, mientras el sistema gestiona las elecciones.
-Historia de usuario 4 - agregar artículos a la bolsa de pedido: 
-como el usuario al elegir determinadas categorías de productos y cantidades respectivas, agrega las elecciones a la bolsa de pedido.
-Historia de usuario 5 – revisión y autorización bolsa de pedido: 
-Como el usuario puede revisar los artículos ingresados a la bolsa de pedido y aceptarlos para que le sea autorizada la compra.
+  Como el usuario puede elegir un producto determinado, indicar la cantidad e ingresar los artículos a la bolsa de pedido.
+  - Historia de usuario 3 -  elegir categorías y cantidades: 
+    como el usuario puede elegir una variedad de categorías y sus cantidades, mientras el sistema gestiona las elecciones.
+  - Historia de usuario 4 - agregar artículos a la bolsa de pedido: 
+    como el usuario al elegir determinadas categorías de productos y cantidades respectivas, agrega las elecciones a la bolsa de pedido.
+  - Historia de usuario 5 – revisión y autorización bolsa de pedido: 
+    Como el usuario puede revisar los artículos ingresados a la bolsa de pedido y aceptarlos para que le sea autorizada la compra.
 
 •	Épica 3: Creación de cuenta cliente
-El usuario crea una cuenta para convertirse en cliente y poder validar los artículos de la bolsa de pedido, para de tal manera poder pagar y obtener información de contacto y tiempo de entrega.
-Historia de usuario 6 – Visualización interfaz para cuenta cliente:
-Cómo el usuario accede al formulario de cliente, donde puede diligenciar sus datos personales o de empresa y visualizar la cantidad de artículos elegidos, visualizar el panel de pago y el panel mensajes.
+  El usuario crea una cuenta para convertirse en cliente y poder validar los artículos de la bolsa de pedido, para de tal manera poder pagar y obtener información de contacto y tiempo de entrega.
+  - Historia de usuario 6 – Visualización interfaz para cuenta cliente:
+    Cómo el usuario accede al formulario de cliente, donde puede diligenciar sus datos personales o de empresa y visualizar la cantidad de artículos elegidos, visualizar el panel de pago y el panel mensajes.
 
-Historia de usuario 7 – creación de cuenta cliente: 
-Cómo el usuario después de elegir los artículos a comprar, puede crear una cuenta, donde registre sus datos personales, de nit e información de contacto, bolsa de pedido para autorizar los artículos elegidos.
+  - Historia de usuario 7 – creación de cuenta cliente: 
+    Cómo el usuario después de elegir los artículos a comprar, puede crear una cuenta, donde registre sus datos personales, de nit e información de contacto, bolsa de pedido para autorizar los artículos elegidos.
 
-Historia de usuario 8 – elección medio de pago:
-Como el usuario después de ser notificado por la empresa que ha sido autorizado su pedido, elige el medio de pago, introduce sus datos financieros y acepta el valor del pedido.
+  - Historia de usuario 8 – elección medio de pago:
+   Como el usuario después de ser notificado por la empresa que ha sido autorizado su pedido, elige el medio de pago, introduce sus datos financieros y acepta el valor del pedido.
 
-Historia de usuario 9 -  pagar por el pedido:
-Cómo el usuario paga los artículos elegidos y registrado en bolsa de pedido, y el sistema le informa en cuanto tiempo le llegará su orden y datos del  contacto correspondiente al  asesor de venta.
+  - Historia de usuario 9 -  pagar por el pedido:
+   Cómo el usuario paga los artículos elegidos y registrado en bolsa de pedido, y el sistema le informa en cuanto tiempo le llegará su orden y datos del  contacto correspondiente al  asesor de venta.
+
 •	Épica 4 – Notificación de autorización pedido: 
-como el usuario se entera de la autorización del pedido, ticket para ingresar a su cuenta
-Historia de usuario 10 – visualizar la aprobación por parte de la empresa:
-Cómo el cliente visualiza desde su cuenta, los mensajes con información del tiket correspondiente a su pedido.
+  como el usuario se entera de la autorización del pedido, ticket para ingresar a su cuenta
+  - Historia de usuario 10 – visualizar la aprobación por parte de la empresa:
+    Cómo el cliente visualiza desde su cuenta, los mensajes con información del tiket correspondiente a su pedido.
 
-Historia de usuario 11 – Enviar mensaje a empresa:
-Cómo el cliente desde la sección mensajes de su cuenta, puede enviar comunicados a la empresa, preguntas y otros de manera escrita, creándose un tiket de seguimiento a la información enviada a la empresa.
+  - Historia de usuario 11 – Enviar mensaje a empresa:
+    Cómo el cliente desde la sección mensajes de su cuenta, puede enviar comunicados a la empresa, preguntas y otros de manera escrita, creándose un tiket de seguimiento a la información enviada a la empresa.
 
 •	Épica 5 - registrar pedido con datos del usuario: 
-Como el sistema registra los pedidos relacionándolo con los datos del usuario y permite agregar información posterior, del encargado de organizar las existencias, el contacto en la empresa, da la notificación al usuario del pedido listo.
-Historia de usuario 12 – Registrar pedido: 
-El sistema almacena el pedido con los datos del usuario para que en la empresa se continúe con el trámite correspondiente.
+  Como el sistema registra los pedidos relacionándolo con los datos del usuario y permite agregar información posterior, del encargado de organizar las existencias, el contacto en la empresa, da la notificación al usuario del pedido listo.
+  - Historia de usuario 12 – Registrar pedido: 
+    El sistema almacena el pedido con los datos del usuario para que en la empresa se continúe con el trámite correspondiente.
